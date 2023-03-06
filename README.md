@@ -1,5 +1,5 @@
-# Indonesia Geo Guesser
-Indonesia Geo Guesser is a game that challenges your knowledge of Indonesian geography, while also allowing you to enjoy the sights and sounds of the country. The idea for this game came from my long distance relationship with my boyfriend, as we were looking for ways to have fun and connect during our video call sessions.
+# My Geo Guesser
+My Geo Guesser is a simple web app game that challenges your knowledge of Indonesian(?) geography, while also allowing you to enjoy the sights and sounds of the country. The idea for this game came from my long distance relationship with my boyfriend, as we were looking for ways to have fun and connect during our video call sessions.
 
 # How it Works
 The game works by presenting you with a series of videos that showcase different cities and landmarks throughout Indonesia. You have to guess the name of the city or landmark that is displayed in the video. You have three tries to guess correctly, and your score is based on how quickly you can guess the correct answer. You can play solo, or you can invite friends to join and compete for the highest score.
